@@ -16,7 +16,7 @@ namespace Pertemuan12
         {
             InitializeComponent();
 
-            this.Text = "Test Change";
+            this.Text = "Test Kelas PBO 2";
         }
     }
 }
